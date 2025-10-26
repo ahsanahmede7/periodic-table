@@ -1,10 +1,5 @@
-/* * {
-    background-image: url(./green.jpg);
-    background-position: center;
-} */
-
 #main {
-    border: 8px solid black;
+    /* border: 8px solid black; */
     height: 600px;
     margin-top: 90px;
     width: 99%;
@@ -29,8 +24,7 @@
     width: 100%;
     margin: 1px;
 
-}
-
+}      
 .first {
     gap: 5px;
     width: 5.7%;
@@ -83,7 +77,6 @@ small {
     height: 20%;
     
 }
-
 span {
     color: white;
     font-size: 19px;
